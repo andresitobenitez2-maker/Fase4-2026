@@ -55,6 +55,6 @@ Validación de Entradas: El sistema evita errores si se dejan campos vacíos o s
 
 # Autores
 JHOJAN ANDRES CHIA BENITEZ
-
+YURLEY CAROLINA HERNANDEZ MOLINA
 # Institución
 UNIVERSIDAD NACIONAL ABIERTA Y A DISNACIA (UNAD)
